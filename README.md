@@ -90,5 +90,8 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 ### 其他
 * 使用網址管理網站，管理特定易跳掉網址
 * 幫宗教社團建置遊戲，輸入：遊戲開始
- 
+
+ <div align=center>
+    <img width="300" height="500" src="https://imgur.com/c5d48b7e-f1e4-4ec8-9da5-b4dd311dfdb6"/>
+</div>
 
