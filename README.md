@@ -92,6 +92,6 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 * 幫宗教社團建置遊戲，輸入：遊戲開始
 
  <div align=center>
-    <img width="300" height="500" src="https://i.imgur.com/AZgqAXP.png"/>
+    <img width="500" height="300" src="https://i.imgur.com/AZgqAXP.png"/>
 </div>
 
