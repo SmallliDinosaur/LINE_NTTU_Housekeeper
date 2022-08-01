@@ -64,7 +64,7 @@
     * 操作說明
 <br>
 
-### 額外功能
+### 額外說明
 
 * 宿舍：
     * 包裹室
@@ -72,6 +72,13 @@
     * 宿舍公告
     * 宿舍修繕
     * 宿舍電話
+* 學校電話：
+    *校安中心
+    *校內電話分機
+    *學生宿舍連絡電話
+    *微笑心輔專線電話
+    *性騷擾申訴專線電話
+    *24小時校安緊急專線
 * 課程查詢：
 <div align=center>
     <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
