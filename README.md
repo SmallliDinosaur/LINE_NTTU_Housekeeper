@@ -1,5 +1,5 @@
 # 臺東大學小管家
-<div align=center><img width="500" height="500" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
+<div align=center><img width="350" height="350" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
 
 ## 建置
 * Django
