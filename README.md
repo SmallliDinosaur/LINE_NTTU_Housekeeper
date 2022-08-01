@@ -1,5 +1,6 @@
 # 臺東大學小管家
 <div align=center><img width="500" height="500" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
+
 ## 建置
 * Django
 * Pycharm
@@ -65,15 +66,19 @@
 
 ### 額外功能
 
-* 宿舍
+* 宿舍：
     * 包裹室
     * 宿舍網站
     * 宿舍公告
     * 宿舍修繕
     * 宿舍電話
-* 課程查詢
+* 課程查詢：
 <div align=center>
     <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
 </div>
+
+### 其他
+* 使用網址管理網站管理特定易跳掉網址
+* 幫宗教社團建置遊戲，輸入：遊戲開始
 
 
