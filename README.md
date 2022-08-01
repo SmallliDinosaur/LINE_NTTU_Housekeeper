@@ -1,4 +1,5 @@
 # 臺東大學小管家
+https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 <div align=center><img width="350" height="350" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
 
 ## 建置
