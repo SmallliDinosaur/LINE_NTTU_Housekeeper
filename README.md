@@ -57,12 +57,14 @@
     * 操作說明
 <br>
 ### 額外功能
+
 * 宿舍
     * 包裹室
     * 宿舍網站
     * 宿舍公告
+    * 宿舍修繕
     * 宿舍電話
 * 課程查詢
 <div align=center>
-    <img width="200" height="250" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
+    <img width="500" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
 </div>
