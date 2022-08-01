@@ -30,7 +30,7 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
     <img width="600" height="200" src="https://i.imgur.com/ln8yXhq.png"/>
 </div>
 
-* 圖資館：
+* 圖資館：臺東大學圖書館常用服務網址。
 * 學校公告：爬取學校前五項最新公告及提供公告網址。
  * 抽學餐：可再抽一次並提供菜單連結。
  * 快速選單：
