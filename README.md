@@ -63,3 +63,6 @@
     * 宿舍公告
     * 宿舍電話
 * 課程查詢
+<div align=center>
+    <img width="200" height="250" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
+</div>
