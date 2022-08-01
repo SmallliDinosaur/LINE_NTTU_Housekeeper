@@ -32,7 +32,9 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
     * 課綱
 * 臺東天氣：串接API，可抓取其他縣市天氣。
 
-![imgur](https://i.imgur.com/ln8yXhq.png)
+<div align=center>
+    <img width="600" height="200" src="https://i.imgur.com/ln8yXhq.png"/>
+</div>
 
 * 圖資館：
     * 空間預約
