@@ -66,5 +66,5 @@
     * 宿舍電話
 * 課程查詢
 <div align=center>
-    <img width="500" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
+    <img width="00" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
 </div>
