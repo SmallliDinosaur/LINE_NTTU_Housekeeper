@@ -56,6 +56,7 @@
     * 尬聊
     * 操作說明
 <br>
+
 ### 額外功能
 
 * 宿舍
@@ -68,3 +69,8 @@
 <div align=center>
     <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
 </div>
+
+## 建置
+* Django
+* Pycharm
+* Heroku
