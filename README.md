@@ -1,4 +1,10 @@
 # 臺東大學小管家
+<div align=center><img width="500" height="500" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
+## 建置
+* Django
+* Pycharm
+* Heroku
+
 ## 功能介紹
 ### 選單
 <div align=center><img width="600" height="300" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945731.jpg"/></div>
@@ -70,7 +76,4 @@
     <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
 </div>
 
-## 建置
-* Django
-* Pycharm
-* Heroku
+
