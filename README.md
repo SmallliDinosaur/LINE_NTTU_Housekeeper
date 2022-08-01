@@ -47,7 +47,6 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 <br>
 
 ### 額外說明
-
 * 宿舍：
     * 包裹室
     * 宿舍網站
@@ -67,6 +66,7 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 </div>
 
 ### 其他
+* 經緯度：使用LINE內建地圖標示功能，回傳經緯度。
 * 使用網址管理網站，管理特定易跳掉網址
 * 幫宗教社團建置遊戲，輸入：遊戲開始
 
@@ -81,4 +81,4 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 
 特別感謝美產系捧油幫我設計表單樣式
 <br>
-風格很可愛、耐看、很恐龍 很喜歡!!!
+風格很可愛、耐看、很恐龍 很喜歡!!!!!
