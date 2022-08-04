@@ -61,6 +61,7 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
     * 性騷擾申訴專線電話
     * 24小時校安緊急專線
 * 校園地圖：
+    * https://lihi1.com/fQBtx  
     * https://github.com/SmallliDinosaur/NTTU_Coordinate_Axis
 * 課程查詢：
 <div align=center>
@@ -70,6 +71,7 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 ### 其他
 * 經緯度：使用LINE內建地圖標示功能，回傳經緯度。
 * 使用網址管理網站，管理特定易跳掉網址
+* 抽學餐轉盤(未加入)：https://github.com/SmallliDinosaur/Eat_Turntable
 * 幫宗教社團建置遊戲，輸入：遊戲開始
 
  <div align=center>
