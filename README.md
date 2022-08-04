@@ -61,7 +61,7 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
     * 性騷擾申訴專線電話
     * 24小時校安緊急專線
 * 校園地圖：
-    * 校園地圖：https://lihi1.com/fQBtx  
+    * 地圖鏈結：https://lihi1.com/fQBtx  
     * 使用說明：https://github.com/SmallliDinosaur/NTTU_Coordinate_Axis
 * 課程查詢：
 <div align=center>
