@@ -60,6 +60,8 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
     * 微笑心輔專線電話
     * 性騷擾申訴專線電話
     * 24小時校安緊急專線
+* 校園地圖：
+https://github.com/SmallliDinosaur/NTTU_Coordinate_Axis
 * 課程查詢：
 <div align=center>
     <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
