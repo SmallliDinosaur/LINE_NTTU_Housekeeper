@@ -63,6 +63,21 @@ https://liff.line.me/1645278921-kWRPP32q/?accountId=144gwesn
 * 校園地圖：
     * 地圖鏈結：https://lihi1.com/fQBtx  
     * 使用說明：https://github.com/SmallliDinosaur/NTTU_Coordinate_Axis
+* 尬聊：
+    * 不可以色色
+    * 哈哈/哈哈哈
+    * 你是哪裡人
+    * 單身嗎/單身/你單身嗎
+    * 你是資工系嗎/資工系帥哥/資工系妹子/資工系?
+    * 我正嗎/我美嗎/我漂亮嗎
+    * 我帥嗎/帥
+    * 你是誰
+    * 情人節快樂
+    * 科系介紹
+    * 學餐
+    * 你好/妳好/好啊/好~/好
+    * 親愛的/嘿嘿
+    * 社團
 * 課程查詢：
 <div align=center>
     <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
