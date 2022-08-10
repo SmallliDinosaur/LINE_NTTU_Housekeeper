@@ -40,6 +40,7 @@ https://lihi1.com/y28Pr
     * 學校電話
     * 宿舍
     * 校園地圖
+    * 公告推播
     * 課程資訊
     * 意見回饋
     * 尬聊
@@ -60,6 +61,9 @@ https://lihi1.com/y28Pr
     * 微笑心輔專線電話
     * 性騷擾申訴專線電話
     * 24小時校安緊急專線
+* 公告推播：
+    * 連動連結：https://lihi1.com/sP9Ke
+    * 使用說明：https://github.com/SmallliDinosaur/NTTU_Announce
 * 校園地圖：
     * 地圖鏈結：https://lihi1.com/fQBtx  
     * 使用說明：https://github.com/SmallliDinosaur/NTTU_Coordinate_Axis
