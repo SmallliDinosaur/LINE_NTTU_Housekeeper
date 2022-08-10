@@ -97,7 +97,8 @@ https://lihi1.com/y28Pr
 <br>
 
 ### 遇到的問題
-Seleniunm 期望版本錯誤，回傳狀態 Status=500 ，需要在 Heroku 中設定環境變數 ChromeDriver 的版本。
+Seleniunm 期望版本錯誤，回傳狀態 Status=500 ，
+<br>需要在 Heroku 中設定環境變數 ChromeDriver 的版本。
 
 ### 感謝
 
