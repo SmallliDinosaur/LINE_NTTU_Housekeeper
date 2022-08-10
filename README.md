@@ -96,6 +96,9 @@ https://lihi1.com/y28Pr
 <br>
 <br>
 
+### 遇到的問題
+Seleniunm 期望版本錯誤，回傳狀態 Status=500 ，需要在 Heroku 中設定環境變數 ChromeDriver 的版本。
+
 ### 感謝
 
 特別感謝美產系捧油幫我設計表單樣式
