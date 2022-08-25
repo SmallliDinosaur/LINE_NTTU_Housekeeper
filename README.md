@@ -1,6 +1,7 @@
 # 臺東大學小管家
-https://lihi1.com/y28Pr
-<br>服務總閱覽：
+臺東大學小管家：https://lihi1.com/y28Pr
+<br>
+總服務閱覽：
 https://lit.link/en/guan0dinosaur
 <div align=center><img width="350" height="350" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
 
