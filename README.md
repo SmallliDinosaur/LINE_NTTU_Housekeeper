@@ -6,6 +6,8 @@ https://lit.link/en/guan0dinosaur
 <div align=center><img width="350" height="350" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
 
 
+https://www.youtube.com/watch?v=EaQYpKXdRLo&ab_channel=%E6%81%90%E9%BE%8D
+
 
 ## 建置
 * Django
