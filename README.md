@@ -5,7 +5,8 @@
 https://lit.link/en/guan0dinosaur
 <div align=center><img width="350" height="350" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/qrcode_page.line.me.png"/></div>
 
-範例影片：
+
+## 範例影片
 [![Alternate Text](https://i.imgur.com/rEkEMr3.png)](https://youtu.be/EaQYpKXdRLo "範例影片：")
 
 
