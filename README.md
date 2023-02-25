@@ -90,10 +90,7 @@ https://lit.link/en/guan0dinosaur
     * 你好/妳好/好啊/好~/好
     * 親愛的/嘿嘿
     * 社團
-* 課程查詢：
-<div align=center>
-    <img width="400" height="700" src="https://github.com/SmallliDinosaur/LINE_NTTU_Housekeeper/blob/main/image/S__65945764.jpg"/>
-</div>
+
 
 ### 其他
 * 經緯度：使用LINE內建地圖標示功能，回傳經緯度。
